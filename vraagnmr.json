@@ -1,0 +1,30 @@
+  {
+    "1": {
+      "vraag": "1) You wake up and see all your stuff is gone, you only have your fridge do you: \nA) Drink milk \nB) Walk away",
+      "progAntwoord": "You died, L"
+    },
+    "2": {
+        "vraag": "2) You walked away from home you see a little street do you: \nA) Go in \nB) Keep walking",
+        "progAntwoord": "You died. Someone stabbed you"
+      },
+    "3": {
+      "vraag": "3) You walked passed the little street and see someone get stabbed, luckily you didnt go in there\nYou keep walking untill you arrive at the store, do you \nA) Dont go \nB) Go to the store ",
+      "progAntwoord": "You died because you starved to death dumbass, buy food."
+    },
+    "4": {
+        "vraag": "4) In the store you buy some food and something to drink, you eat your food and enjoyed it. \nYou walk past an weird and old looking house and it looks like your stuff is there, do you: \nA) keep walking \nB) Go in",
+        "progAntwoord": "You kept walking and fell on some rocks and died. Should've gone looking for your stuff :D"
+      },
+    "5": {
+      "vraag": "5) You went into the house and saw all your stuff, do you: \nA) Leave your stuff \nB) Take it outside",
+      "progAntwoord": "Why did you go in for your stuff and left without it? r u dumb. You just explode and die."
+    },
+    "6": {
+        "vraag": "6) You put all your stuff outside and see someone with a truck, do you: \nA) Carry everything home \nB) Ask the truck driver for help",
+        "progAntwoord": "r u rlly that dumb.. you get crushed and died."
+      },
+    "7":{
+        "vraag": "YOU GOT YOUR STUFF HOME AND YOU WON GOODJOB! (press enter to end)",
+        "progAntwoord": ""
+    }  
+  }
